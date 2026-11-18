@@ -1,0 +1,44 @@
+{
+  "_comment": "Os 27 pontos de coleta da CPRH, com nome e referência como aparecem nos boletins. lat/lng são aproximados e o tools/build_areas.py os encaixa na linha de costa do OSM. Corrija aqui e rode o script de novo.",
+  "points": [
+    {"id": "itamaraca-jaguaribe", "name": "Jaguaribe", "city": "Itamaracá", "reference": "Em frente à Rua Santina de Barros", "lat": -7.7350, "lng": -34.8260},
+    {"id": "itamaraca-pilar", "name": "Pilar", "city": "Itamaracá", "reference": "Em frente à Igreja do Pilar", "lat": -7.7553, "lng": -34.8268},
+    {"id": "itamaraca-forte", "name": "Forte", "city": "Itamaracá", "reference": "Em frente ao Forte Orange", "lat": -7.8115, "lng": -34.8390},
+    {"id": "igarassu-capitao", "name": "Capitão (Mangue Seco)", "city": "Igarassu", "reference": "Acesso pela PE-014", "lat": -7.8350, "lng": -34.8420},
+    {"id": "paulista-maria-farinha", "name": "Maria Farinha", "city": "Paulista", "reference": "Em frente ao Cabanga Iate Clube", "lat": -7.8600, "lng": -34.8370},
+    {"id": "paulista-janga-claudio-bastos", "name": "Janga", "city": "Paulista", "reference": "Em frente à Rua Cláudio S. Bastos, nº 190 (Condomínio Roberto Barbosa)", "lat": -7.9300, "lng": -34.8180},
+    {"id": "paulista-janga-betania", "name": "Janga", "city": "Paulista", "reference": "Em frente à Rua Betânia", "lat": -7.9450, "lng": -34.8230},
+    {"id": "olinda-rio-doce", "name": "Rio Doce", "city": "Olinda", "reference": "Em frente à Rua Paulo N. Queiroz, perto da foz do Rio Doce", "lat": -7.9620, "lng": -34.8300},
+    {"id": "olinda-bairro-novo", "name": "Bairro Novo", "city": "Olinda", "reference": "Av. Ministro Marcos Freire, nº 2039 (quartel da PE)", "lat": -7.9980, "lng": -34.8390},
+    {"id": "olinda-carmo", "name": "Carmo", "city": "Olinda", "reference": "Em frente à Praça João Pessoa, atrás dos Correios", "lat": -8.0105, "lng": -34.8410},
+    {"id": "olinda-milagres", "name": "Milagres", "city": "Olinda", "reference": "Em frente à Praça dos Milagres", "lat": -8.0185, "lng": -34.8440},
+    {"id": "recife-pina", "name": "Pina", "city": "Recife", "reference": "Rua Com. Morais com Eng. Antônio de Góes (Cassino Americano)", "lat": -8.0905, "lng": -34.8790},
+    {"id": "recife-boa-viagem-posto-8", "name": "Boa Viagem (Posto 8)", "city": "Recife", "reference": "Av. Boa Viagem, nº 2840 (Padaria Boa Viagem)", "lat": -8.1160, "lng": -34.8910},
+    {"id": "recife-boa-viagem-posto-15", "name": "Boa Viagem (Posto 15)", "city": "Recife", "reference": "Av. Boa Viagem, nº 6958", "lat": -8.1470, "lng": -34.9020},
+    {"id": "jaboatao-piedade", "name": "Piedade", "city": "Jaboatão dos Guararapes", "reference": "Av. Beira Mar, nº 606 (Hospital da Aeronáutica)", "lat": -8.1640, "lng": -34.9080},
+    {"id": "jaboatao-candeias-ii", "name": "Candeias", "city": "Jaboatão dos Guararapes", "reference": "Av. Bernardo V. de Melo, nº 5422 (Conj. Residencial Candeias II)", "lat": -8.2000, "lng": -34.9210},
+    {"id": "jaboatao-candeias-candelaria", "name": "Candeias", "city": "Jaboatão dos Guararapes", "reference": "Av. Bernardo V. de Melo, nº 6476 (Restaurante Candelária)", "lat": -8.2120, "lng": -34.9250},
+    {"id": "jaboatao-barra-de-jangadas", "name": "Barra de Jangadas", "city": "Jaboatão dos Guararapes", "reference": "Nº 10800 (antiga Marina dos Mares)", "lat": -8.2350, "lng": -34.9310},
+    {"id": "cabo-enseada-dos-corais", "name": "Enseada dos Corais", "city": "Cabo de Santo Agostinho", "reference": "Em frente ao Canal do Boto", "lat": -8.3170, "lng": -34.9490},
+    {"id": "cabo-gaibu", "name": "Gaibu", "city": "Cabo de Santo Agostinho", "reference": "Av. Laura Cavalcanti (Centro de Turismo)", "lat": -8.3396, "lng": -34.9522},
+    {"id": "cabo-suape", "name": "Suape", "city": "Cabo de Santo Agostinho", "reference": "Praia de Suape, ponto 6", "lat": -8.3650, "lng": -34.9520},
+    {"id": "ipojuca-porto-de-galinhas", "name": "Porto de Galinhas", "city": "Ipojuca", "reference": "Rua Esperança, Escola Manuel L. C. Uchoa", "lat": -8.5030, "lng": -35.0010},
+    {"id": "ipojuca-serrambi", "name": "Ponta de Serrambi", "city": "Ipojuca", "reference": "No Pontal, Quadra 01-01, Lote 01-01", "lat": -8.5580, "lng": -35.0100},
+    {"id": "tamandare-carneiros", "name": "Carneiros", "city": "Tamandaré", "reference": "Em frente ao Condomínio Pontal dos Carneiros", "lat": -8.6980, "lng": -35.0790},
+    {"id": "tamandare-hotel-marinas", "name": "Tamandaré (Hotel Marinas)", "city": "Tamandaré", "reference": "Em frente ao Hotel Marinas de Tamandaré", "lat": -8.7480, "lng": -35.1000},
+    {"id": "tamandare-estatua", "name": "Tamandaré (Estátua)", "city": "Tamandaré", "reference": "Em frente à Rua Nilo Gouveia Filho, na estátua", "lat": -8.7590, "lng": -35.1050},
+    {"id": "sao-jose-da-coroa-grande", "name": "São José da Coroa Grande", "city": "São José da Coroa Grande", "reference": "Rua da Matriz, esquina com Rua João Francisco Melo", "lat": -8.8970, "lng": -35.1470}
+  ],
+  "risk_zones": [
+    {
+      "id": "cemit-tubaroes",
+      "kind": "shark",
+      "name": "Área de risco de incidentes com tubarões",
+      "description": "Trecho de cerca de 33 km entre a Praia do Farol (Olinda) e o Paiva (Cabo de Santo Agostinho), definido pelo Decreto Estadual nº 21.402/1999. O decreto proíbe atividades náuticas (surf, bodyboard etc.) no trecho. Há ainda proibição municipal de banho em 2,2 km de Piedade.",
+      "source": "CEMIT / Decreto Estadual 21.402/1999",
+      "from": {"lat": -8.0112, "lng": -34.8400},
+      "to": {"lat": -8.2850, "lng": -34.9450},
+      "sea_width_m": 1200
+    }
+  ]
+}
